@@ -11,3 +11,13 @@ public class arithmetic {
     }
 
 }
+
+public class arithmetic1 {
+    public static void main(String args[])
+    {
+        float a=12.3,b=1.2;
+        System.out.println("Addition : "+(a+b));
+        System.out.println("Subtraction : "+(a-b));
+        System.out.println("Multiplication : "+(a*b));
+        }
+      }
